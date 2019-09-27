@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.4">
+	<ConfigVersions>
+		<Metadata name="CommonModule.ОбщийМодульТест" id="a44a75b2-7156-4865-8baf-2c6cc8dbc3bc" configVersion="9b8b58499e2d104cbe3b082c4bf6454100000000"/>
+		<Metadata name="CommonModule.ОбщийМодульТест.Module" id="a44a75b2-7156-4865-8baf-2c6cc8dbc3bc.0" configVersion="98d78c02f6379c47a8de7ab76de25c9800000000"/>
+		<Metadata name="Configuration.ТестированиеСравнения" id="b8f2bed8-62af-456a-bd48-48af2633fe61" configVersion="07c1fa90cc5a6d45b4b44eb29956c97900000000"/>
+		<Metadata name="Document.ТестовыйДокумент" id="166ae4b2-4689-4202-b76c-1ca63e305b16" configVersion="1f77c4c1b4479745a804b9ae897c5e8100000000"/>
+		<Metadata name="Document.ТестовыйДокумент.Form.ФормаДокумента" id="5823fee4-aac1-4768-b623-c55ff0970b60" configVersion="6b34d0f8322abd4a82fe23ba928fb51400000000"/>
+		<Metadata name="Document.ТестовыйДокумент.Form.ФормаДокумента.Form" id="5823fee4-aac1-4768-b623-c55ff0970b60.0" configVersion="375f44bf66f57b48bed7eec2b9f0027d00000000"/>
+		<Metadata name="Document.ТестовыйДокумент.ObjectModule" id="166ae4b2-4689-4202-b76c-1ca63e305b16.0" configVersion="1cbabf8c5b076d47aa6a1a708774de2400000000"/>
+		<Metadata name="Language.Русский" id="401e926f-d313-440b-9a97-3d176c2859b9" configVersion="f0540697e27c7447b04da8c857bc521b00000000"/>
+		<Metadata name="Role.Администратор" id="f92f420d-e323-431c-94b4-151d5175a4e0" configVersion="b713287664fd864783e5c92a8d3df41700000000"/>
+		<Metadata name="Role.Администратор.Rights" id="f92f420d-e323-431c-94b4-151d5175a4e0.0" configVersion="4068a1b3e6e4e84d88261b8d2066214800000000"/>
+		<Metadata name="Subsystem.ПодсистемаТест" id="b99a2492-b58f-414e-8279-1db48fc7f54c" configVersion="efe785ec8f5ec14aa45ccc0218d0b50300000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

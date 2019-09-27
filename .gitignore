@@ -1,0 +1,8 @@
+bdd-log.xml
+*.ospx
+
+/exec.log
+
+*.orig
+
+/tests.xml

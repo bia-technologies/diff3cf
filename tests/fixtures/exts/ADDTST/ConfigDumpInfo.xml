@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.4">
+	<ConfigVersions>
+		<Metadata name="CommonModule.ОбщийМодульТест" id="2410127c-df4a-4db7-90de-6be3de96a2f0" configVersion="bf76832ec1eeb433a642d8a800a6f05e187543a2"/>
+		<Metadata name="CommonModule.ОбщийМодульТест.Module" id="2410127c-df4a-4db7-90de-6be3de96a2f0.0" configVersion="aca107f0b8858444cd07ebbffceddbd3c85002e5"/>
+		<Metadata name="Configuration.РасширениеТест" id="fe67f727-4b7c-413d-b0b9-2ba3af7cbd9e" configVersion="c77c7beecf90c2b8abd97018df42914b73852798"/>
+		<Metadata name="Document.ТестовыйДокумент" id="901aca2a-0992-47a0-a18d-d4757682a071" configVersion="65fd12ed01de51a0945f6a15f1e13d073c9010f2"/>
+		<Metadata name="Document.ТестовыйДокумент.Form.ФормаДокумента" id="c0762482-4839-447f-9633-ed3a4b7727fb" configVersion="9c6d85a889487c1abbb9544cb54380b0534f2835"/>
+		<Metadata name="Document.ТестовыйДокумент.Form.ФормаДокумента.Form" id="c0762482-4839-447f-9633-ed3a4b7727fb.0" configVersion="49194a1807c477ca2ea6378c9ec03c7ee2c7660f"/>
+		<Metadata name="Language.Русский" id="7db28f26-4f45-4c4f-9757-05fddaee40c1" configVersion="7a7736fa48fddaed3baab0fbbe0d39300f2c06cf"/>
+	</ConfigVersions>
+</ConfigDumpInfo>

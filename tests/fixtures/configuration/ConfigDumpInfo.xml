@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.7">
+	<ConfigVersions>
+		<Metadata name="Catalog.Справочник1" id="c5ac80e6-b951-4a64-b272-68ecfc378eaf" configVersion="54c58831a6045b468a9bee8da1d87db500000000"/>
+		<Metadata name="CommonModule.ОбщийМодульТест" id="a44a75b2-7156-4865-8baf-2c6cc8dbc3bc" configVersion="5c0c09f98be1294cae5c406c898c168800000000"/>
+		<Metadata name="CommonModule.ОбщийМодульТест.Module" id="a44a75b2-7156-4865-8baf-2c6cc8dbc3bc.0" configVersion="f84e46277e660c498f103cfc4b9bedc600000000"/>
+		<Metadata name="Configuration.ТестированиеСравнения" id="b8f2bed8-62af-456a-bd48-48af2633fe61" configVersion="49badb7a768e9b4db6a62bedd3a3f2d300000000"/>
+		<Metadata name="Document.ТестовыйДокумент" id="166ae4b2-4689-4202-b76c-1ca63e305b16" configVersion="d252ac6ccf4fd849af4ddcff57df155100000000">
+			<Metadata name="Document.ТестовыйДокумент.TabularSection.ТабличнаяЧасть1" id="1a9690a8-f078-40ac-965c-b5ae42a40da6"/>
+			<Metadata name="Document.ТестовыйДокумент.TabularSection.ТабличнаяЧасть1.Attribute.Реквизит1" id="25228916-a86f-4c9f-adcb-caf22243c2ad"/>
+			<Metadata name="Document.ТестовыйДокумент.TabularSection.ТабличнаяЧасть1.Attribute.Реквизит3" id="5aa085e7-1aed-4dd3-a673-52c6183d9631"/>
+			<Metadata name="Document.ТестовыйДокумент.Attribute.Реквизит2" id="7c781ffa-00ec-45d7-928b-379028d8d41e"/>
+			<Metadata name="Document.ТестовыйДокумент.Attribute.Реквизит1" id="d99abaf2-eae9-4b87-9290-9602869abb06"/>
+			<Metadata name="Document.ТестовыйДокумент.TabularSection.ТабличнаяЧасть1.Attribute.Реквизит2" id="ff3484e3-c880-4504-a4be-7f7fc9d94b95"/>
+		</Metadata>
+		<Metadata name="Document.ТестовыйДокумент.Form.ФормаДокумента" id="5823fee4-aac1-4768-b623-c55ff0970b60" configVersion="8455e4dc1e3dd7498642a1a08d90ea2d00000000"/>
+		<Metadata name="Document.ТестовыйДокумент.Form.ФормаДокумента.Form" id="5823fee4-aac1-4768-b623-c55ff0970b60.0" configVersion="dc5d5c78a28c0f4f8b8c229d2d69e48c00000000"/>
+		<Metadata name="Document.ТестовыйДокумент.ObjectModule" id="166ae4b2-4689-4202-b76c-1ca63e305b16.0" configVersion="2299082c6e6611438f56234994edc8f200000000"/>
+		<Metadata name="Language.Русский" id="401e926f-d313-440b-9a97-3d176c2859b9" configVersion="5079916dd21594449e3788ee8c87259c00000000"/>
+		<Metadata name="Role.Администратор" id="f92f420d-e323-431c-94b4-151d5175a4e0" configVersion="2df0e39547974842a29a1af1bfd6cf5900000000"/>
+		<Metadata name="Role.Администратор.Rights" id="f92f420d-e323-431c-94b4-151d5175a4e0.0" configVersion="04407c27da65854caac89ad5a1410e8b00000000"/>
+		<Metadata name="Subsystem.ПодсистемаТест" id="b99a2492-b58f-414e-8279-1db48fc7f54c" configVersion="1ed89ab27d723343a2b9baae3d51f17000000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
